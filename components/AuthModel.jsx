@@ -7,7 +7,6 @@ import { FaFacebookF, FaApple } from "react-icons/fa";
 import { Pacifico } from "next/font/google";
 import { toast, ToastContainer } from "react-toastify";
 import axiosinstance from '../axios/axiosinstance';
-import axios from "axios";
 
 const pacifico = Pacifico({ weight: "400", subsets: ["latin"] });
 
