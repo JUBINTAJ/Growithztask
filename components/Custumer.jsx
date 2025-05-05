@@ -1,6 +1,6 @@
 export default function Customers() {
     return (
-      <section className="bg-teal-300 py-16 text-center">
+      <section className="bg-[#83D0CB] py-16 text-center">
         <h2 className="text-3xl font-semibold mb-8">
           🐾 What Our Customers Say 🐾
         </h2>
@@ -15,7 +15,6 @@ export default function Customers() {
           <p className="text-gray-500 text-sm">Owner of Max, 5-year-old Labrador</p>
         </div>
   
-        {/* Dots */}
         <div className="flex justify-center space-x-2 mt-8">
           <span className="w-3 h-3 bg-orange-400 rounded-full"></span>
           <span className="w-3 h-3 bg-teal-400 rounded-full opacity-50"></span>

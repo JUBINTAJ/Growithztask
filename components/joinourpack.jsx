@@ -1,6 +1,6 @@
 export default function Newsletter() {
     return (
-      <section className="bg-yellow-700 py-16 text-center text-white">
+      <section className="bg-[#D4A373] py-16 text-center text-white">
         <h2 className="text-3xl font-semibold mb-4">Join Our Pack!</h2>
         <p className="mb-6">Subscribe to our newsletter for pet care tips and exclusive offers</p>
   
