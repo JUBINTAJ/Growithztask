@@ -1,4 +1,3 @@
-// components/FeaturedProducts.js
 export default function FeaturedProducts() {
     const products = [
       {

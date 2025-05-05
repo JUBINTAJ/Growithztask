@@ -1,7 +1,7 @@
 import React from 'react'
 import Hero from '../../components/Hero'
 import Feutreproduct from '../../components/Feutreproduct'
-import Productts from '../../components/Productts'
+import Product from '../../components/product'
 import Customer from '../../components/Custumer'
 import Joinpack from '../../components/joinourpack'
 
@@ -10,7 +10,7 @@ function page() {
     <div>
 
       <Hero/>
-      <Productts/>
+      <Product/>
       <Feutreproduct/>
       <Customer/>
       <Joinpack/>
